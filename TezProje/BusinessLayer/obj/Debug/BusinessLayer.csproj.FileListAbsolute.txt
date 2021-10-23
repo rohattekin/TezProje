@@ -1,0 +1,6 @@
+C:\Users\rohat\source\repos\TezProje\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\rohat\source\repos\TezProje\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\rohat\source\repos\TezProje\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\rohat\source\repos\TezProje\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\rohat\source\repos\TezProje\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\rohat\source\repos\TezProje\BusinessLayer\obj\Debug\BusinessLayer.pdb
